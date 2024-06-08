@@ -1,0 +1,3 @@
+[submodule "malrugos-blog/themes/rocinante"]
+	path = malrugos-blog/themes/rocinante
+	url = https://github.com/mavidser/hugo-rocinante.git
