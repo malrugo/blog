@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/malrugo/malrugo.git/'
+baseURL = 'https://malrugos-world.netlify.app/'
 languageCode = 'en-us'
 title = "Malrugo's World"
 theme = 'rocinante'
