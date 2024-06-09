@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Malrugo&#39;s World</title>
-    <link>https://malrugos-world.netlify.app/posts/</link>
-    <description>Recent content in Posts on Malrugo&#39;s World</description>
+    <title>Posts on Matt&#39;s Blog</title>
+    <link>https://malrugo.netlify.app/posts/</link>
+    <description>Recent content in Posts on Matt&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jun 2024 13:47:48 -0400</lastBuildDate>
-    <atom:link href="https://malrugos-world.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://malrugo.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Day -3</title>
-      <link>https://malrugos-world.netlify.app/posts/day--3/</link>
+      <link>https://malrugo.netlify.app/posts/day--3/</link>
       <pubDate>Sat, 08 Jun 2024 13:47:48 -0400</pubDate>
-      <guid>https://malrugos-world.netlify.app/posts/day--3/</guid>
-      <description>&lt;h2 id=&#34;hello-hello&#34;&gt;Hello Hello&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to my blog. I am getting ready to embark on quite an intense trip. I mean that in the best way possible.&#xA;Soon I will leave my home country and travel to Ciudad de México for almost 3 months.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Living&amp;rdquo; in Mexico is something I&amp;rsquo;ve dreamt about for quite a while. When I was 21, my father took me on a trip to CDMX and it was an amazing, dizzying experience. Mexico is the land of my roots and, despite those roots having been severed both through my family and my personal histories, I feel a strong connection to this place.&lt;/p&gt;</description>
+      <guid>https://malrugo.netlify.app/posts/day--3/</guid>
+      <description>&lt;h2 id=&#34;hello-hello&#34;&gt;Hello Hello&lt;/h2&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://malrugo.netlify.app/images/2024-06-08.png&#34;&#xA;         alt=&#34;View from an airplane over the sea&#34;/&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Welcome to my blog. I am getting ready to embark on quite an intense trip. I mean that in the best way possible.&#xA;Soon I will leave my home country and travel to Ciudad de México for almost 3 months.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
